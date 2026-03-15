@@ -1,7 +1,6 @@
-# Streamlit configuration
+# Streamlit configuration for Cloud deployment
 [server]
 headless = true
-port = 8505
 enableCORS = true
 enableXsrfProtection = true
 
